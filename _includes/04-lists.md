@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Cats :cat:
+2. Dogs :dog:
+3. Programming :computer:
+4. Avocados :avocado:
